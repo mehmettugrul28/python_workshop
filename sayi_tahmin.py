@@ -9,8 +9,10 @@ while x != sayi:
     print(sayi,end=' girdin.')
     if sayi>x:
         print("Daha küçük bir sayı giriniz.")
+        kac_kez += 1
     elif sayi<x:
         print("Daha büyük bir sayı giriniz.")
+        kac_kez += 1
     else:
         print("Başardınız!")
         kac_kez += 1

@@ -1,15 +1,15 @@
 print("Bu program ile herhangi bir şeklin çevre uzunluğunu veya alanını hesaplayabilirsiniz\n")
 
 while True:
-    sekil = input("""Hangi şeklin çevre uzunluğunu veya alanını hesaplamak istersiniz (lütfen yazarken harf hatası yapmayınız!):
-Kare
-Dikdörtgen
-Üçgen 
-Paralelkenar: """).strip().lower()
+    sekil = int(input("""Hangi şeklin çevre uzunluğunu veya alanını hesaplamak istersiniz (lütfen yazarken harf hatası yapmayınız ve şeklin numarasını giriniz!):
+1-) Kare
+2-) Dikdörtgen
+3-) Üçgen 
+4-) Paralelkenar: """))
 
     cevap = input("Çevre mi hesaplamak istersiniz alan mı?[a/ç]: ").strip().lower()
 
-    if sekil == "dikdörtgen":
+    if sekil == 2:
         kisa_kenar = int(input("Şeklin kısa kenar uzunluğunu giriniz: "))
         uzun_kenar = int(input("Şeklin uzun kenar uzunluğunu giriniz: "))
         if kisa_kenar > uzun_kenar:
@@ -21,7 +21,7 @@ Paralelkenar: """).strip().lower()
         else:
             print("Hatalı giriş yaptınız!")
 
-    elif sekil == "kare":
+    elif sekil == 1:
         kenar = int(input("Karenin bir kenar uzunluğunu giriniz: "))
         if cevap == "a":
             print(f"Şeklin alanı = {kenar ** 2}")
@@ -30,7 +30,7 @@ Paralelkenar: """).strip().lower()
         else:
             print("Hatalı giriş yaptınız!")
 
-    elif sekil == "üçgen":
+    elif sekil == 3:
         kenar1 = int(input("Üçgenin birinci kenar uzunluğunu giriniz: "))
         kenar2 = int(input("Üçgenin ikinci kenar uzunluğunu giriniz: "))
         kenar3 = int(input("Üçgenin üçüncü kenar uzunluğunu giriniz: "))
@@ -39,7 +39,7 @@ Paralelkenar: """).strip().lower()
         else:
             print("Alan hesaplaması için üçgenin yüksekliği eklenmeli. Şu anda desteklenmiyor.")
 
-    elif sekil == "paralelkenar":
+    elif sekil == 4:
         taban = int(input("Paralelkenarın taban uzunluğunu giriniz: "))
         yukseklik = int(input("Paralelkenarın yüksekliğini giriniz: "))
         kenar = int(input("Paralelkenarın diğer kenar uzunluğunu giriniz: "))

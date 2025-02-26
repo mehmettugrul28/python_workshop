@@ -26,7 +26,7 @@ clock = pygame.time.Clock()
 
 # Yılanın boyutu
 snake_block = 10
-snake_speed = 15
+snake_speed = 5
 
 # Fontlar
 font_style = pygame.font.SysFont("bahnschrift", 25)

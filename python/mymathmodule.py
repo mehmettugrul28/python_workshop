@@ -3,5 +3,3 @@ def cevre(r):
 
 def alan(r):
     return 3 * r * r 
-
-

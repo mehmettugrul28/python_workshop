@@ -21,4 +21,4 @@ entry.pack(pady=5)
 buton = tk.Button(pencere, text="Git", command=siteye_git)
 buton.pack(pady=5)
 
-pencere.mainloop()
+pencere.mainloop()  

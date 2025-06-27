@@ -10,7 +10,7 @@ while True:
     print("Kelimeyi tahmin edin (çıkmak için 'q' yazın):")
 
     while True:
-        tahmin = input("Tahmininiz: ").lower()
+        tahmin = input("Tahmininiz: ").lower()  
 
         if tahmin == 'q':
             print("Oyundan çıkılıyor...")

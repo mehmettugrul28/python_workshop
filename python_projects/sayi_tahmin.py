@@ -8,7 +8,7 @@ istenilen_tahmin2 = int(input("İkinci sayıyı giriniz: "))
 if istenilen_tahmin2 > istenilen_tahmin1:
     x = random.randint(istenilen_tahmin1,istenilen_tahmin2)
 else:
-    x = random.randint(istenilen_tahmin2,istenilen_tahmin1)
+    x = random.randint(istenilen_tahmin2,istenilen_tahmin1)  
 
 
 sayi = 0

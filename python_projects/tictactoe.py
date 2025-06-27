@@ -13,7 +13,7 @@ def yazTahta(tahta):
 def kimKazandi(tahta , simge):
     
     if tahta['1'] == tahta['2'] == tahta['3'] == simge:     #Yatay
-        return True
+        return True  
     elif tahta['4'] == tahta['5'] == tahta['6'] == simge:
         return True
     elif tahta['7'] == tahta['8'] == tahta['9'] == simge:

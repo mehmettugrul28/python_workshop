@@ -8,4 +8,4 @@ for i in range(soru):
     zarlar[zar] += 1
 
 for zar in zarlar:
-    print(f"{zar} gelme olasılığı -> {zarlar[zar] / soru}")
+    print(f"{zar} gelme olasılığı -> {zarlar[zar] / soru}") 

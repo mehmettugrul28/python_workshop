@@ -6,7 +6,7 @@ random_letters2 = ["Elma", "Muz", "Çilek", "Portakal", "Üzüm", "Ananas", "Kar
 
 bilgisayar_secim = random.choice(random_letters).strip().lower()
 bilgisayar_secim = random.choice(random_letters2).strip().lower()
-kalan_hak = 5
+kalan_hak = 5  
 tahmin_edilenler = list()
 guncel_kelime = ["_"] * len(bilgisayar_secim)
 

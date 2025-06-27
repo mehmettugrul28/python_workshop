@@ -14,7 +14,7 @@ def determining(move1, move2, dominance_status):
     if move2 in dominance_status[move1]:
         return True
     else:
-        return False
+        return False  
 
 skor = [0, 0]
 bitir = False

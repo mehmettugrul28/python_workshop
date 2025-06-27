@@ -7,3 +7,4 @@ for i in range(us - 1):
     sonuc *= taban
 
 print(f"{taban}^{us} = {sonuc}")
+  

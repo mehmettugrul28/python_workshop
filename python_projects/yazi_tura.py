@@ -9,7 +9,7 @@ while True:
 
     if secim == sonuc:
         print("Bravo! Doğru bildin.")
-        skor += 1
+        skor += 1  
         print(f"Güncel skorunuz => {skor}")
 
     else:

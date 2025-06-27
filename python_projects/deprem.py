@@ -4,7 +4,7 @@ import matplotlib.animation as animation
 from matplotlib.patches import Rectangle
 from matplotlib.transforms import Affine2D
 
-# Deprem parametreleri
+# Deprem parametreleri  
 deprem_siddeti = 8  # 1-10 arası bir değer (ne kadar büyükse o kadar şiddetli)
 frekans = deprem_siddeti * 0.5  # Frekans, şiddete bağlı olarak artıyor
 

@@ -14,7 +14,7 @@ def tas_kagit_makas():
         while kullanici_cevap not in secenekler:
             kullanici_cevap = input("Lütfen sadece taş, makas veya kağıt yazın: ").lower()
         
-        bilgisayar_cevap = random.choice(secenekler)
+        bilgisayar_cevap = random.choice(secenekler)  
         
         if kullanici_cevap == bilgisayar_cevap:
             print(f"Berabere kaldık maalesef, gel bir daha. Benim cevabım şuydu: {bilgisayar_cevap}")

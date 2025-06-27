@@ -9,7 +9,7 @@ for method in dir(set):
     if method.startswith("__"):
         continue
     set_methods.append(method)
-    
+      
 string_methods = []
 for method in dir(str):
     if method.startswith("__"):

@@ -5,7 +5,7 @@ while True:
 1-) Kare
 2-) Dikdörtgen
 3-) Üçgen 
-4-) Paralelkenar: """))
+4-) Paralelkenar: """))  
 
     cevap = input("Çevre mi hesaplamak istersiniz alan mı?[a/ç]: ").strip().lower()
 

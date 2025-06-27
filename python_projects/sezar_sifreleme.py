@@ -7,7 +7,7 @@ def sezar_sifrele(metin, anahtar):
         if not karakter in alfabe:
             sifreli_metin += " "
             continue
-        index = alfabe.index(karakter)
+        index = alfabe.index(karakter)  
         sifreli_metin += alfabe[(index + anahtar)%len(alfabe)]
     return sifreli_metin
 orjinal_metin = input("Şifrelencek metninizi giriniz: ").lower()

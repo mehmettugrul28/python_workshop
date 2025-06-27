@@ -9,6 +9,6 @@ print("Not Ortalamanız:",ortalama)
 if ortalama>70:
     print("Dersten Geçtiniz :)")
 elif ortalama<70:
-    print("Dersten Kaldınız :(")
+    print("Dersten Kaldınız :(")  
 else:
     print("Bütünlemeye Kaldınız :|")

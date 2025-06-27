@@ -12,7 +12,7 @@ class Urun:
 
 class Reyon:
     def __init__(self, isim):
-        self.isim = isim
+        self.isim = isim  
         self.urunler = []
 
     def urun_ekle(self, urun):

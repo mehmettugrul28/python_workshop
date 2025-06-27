@@ -37,3 +37,4 @@ while True:
     else:
         print("Çıkış yapılıyor...")
         break
+    

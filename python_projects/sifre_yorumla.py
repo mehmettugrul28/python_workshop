@@ -11,7 +11,7 @@ def puanlandir(sifre):
             puan += 1
             break
     for karakter in sifre:
-        if karakter in rakamlar:
+        if karakter in rakamlar:  
             puan += 2
             break
     for karakter in sifre:

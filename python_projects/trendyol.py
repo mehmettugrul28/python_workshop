@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-url = "https://www.trendyol.com/samsung/galaxy-s25-256-gb-buz-mavisi-cep-telefonu-samsung-turkiye-garantili-p-897494158?boutiqueId=61&merchantId=624588"
+url = input("Ürünün linkini giriniz: ")
 sayfa = requests.get(url)
 html_sayfa = BeautifulSoup(sayfa.content , "html.parser")
 

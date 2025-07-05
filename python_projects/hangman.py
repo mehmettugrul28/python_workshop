@@ -10,7 +10,7 @@ kalan_hak = 5
 tahmin_edilenler = list()
 guncel_kelime = ["_"] * len(bilgisayar_secim)
 
-print("Adam asmaca oyununa hoşgeldiniz. Seçilen kelimeler ya ülkedir ya da meyvedir.")
+print("Adam asmaca oyununa hoşgeldiniz.")
 print(" ".join(guncel_kelime))
 
 while True:

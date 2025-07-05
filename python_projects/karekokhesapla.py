@@ -6,7 +6,7 @@ def karekok_hesapla(sayi):
     return math.sqrt(sayi)
 
 while True:
-    sayi = float(input("Bir sayı girin: "))
+    sayi = float(input("Karekökünü almak istediğiniz bir sayı girin: "))
     print("Karekökü:", karekok_hesapla(sayi))
     
     tekrar = input("Başka bir sayı girmek ister misiniz? (e/h): ").strip().lower()

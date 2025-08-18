@@ -1,0 +1,67 @@
+Lyla                     Dawson                   Matematik                89.5                     Geçti
+Cora Gill                Maryam                   Matematik Müh            83.4                     Geçti
+Jorgie                   James                    Bilgisayar Müh           79.7                     Geçti
+Keira                    Khan                     Bilgisayar Müh           76.5                     Geçti
+Scarlett                 Stone                    Matematik                89.5                     Geçti
+Arabella                 Wallace                  Bilgisayar Müh           74.8                     Geçti
+Darcey                   Woods                    Fizik                    77.9                     Geçti
+Robin                    Spencer                  Matematik                94.9                     Geçti
+Jamie                    Dawson                   Fizik Müh                77.9                     Geçti
+Val                      Kaur                     Matematik Müh            76.3                     Geçti
+Morgan                   Pearson                  Bilgisayar Müh           77.9                     Geçti
+Bailey Gill              River                    Fizik                    85.2                     Geçti
+Alexis                   Hamilton                 Fizik                    77.9                     Geçti
+Shay                     Smith                    Matematik Müh            83.0                     Geçti
+Silver                   Barker                   Matematik                79.7                     Geçti
+Brook                    Kaur                     Matematik Müh            73.0                     Geçti
+Robert                   Harper                   Kimya                    82.6                     Geçti
+Michael                  Alex                     Kimya Müh                81.8                     Geçti
+David                    Knight                   Bilgisayar Müh           77.9                     Geçti
+Joseph Dillon            Spencer                  Matematik Müh            89.5                     Geçti
+Thomas James             Zachary                  Gıda Müh                 81.3                     Geçti
+Christopher              Dawson                   Bilgisayar Müh           79.7                     Geçti
+Paul Rufus               Pearson                  Matematik                81.2                     Geçti
+Mark Conor               Smith                    Kimya Müh                90.6                     Geçti
+Donald Kenneth           Eğilmez                  Kimya Müh                86.0                     Geçti
+Steven                   Johnson                  Fizik                    80.7                     Geçti
+George                   Aston                    Kimya Müh                73.8                     Geçti
+Brian                    John                     Kimya                    80.8                     Geçti
+Kevin Maxwell            Kennedy                  Matematik                72.5                     Geçti
+Jason                    Rogers                   Fizik Müh                72.5                     Geçti
+Glen                     Francis                  Fizik                    80.4                     Geçti
+Lee                      Fletcher                 Bilgisayar Müh           73.1                     Geçti
+Brook                    Duncan                   Bilgisayar Müh           88.7                     Geçti
+Phoenix                  Phillips                 Matematik                77.8                     Geçti
+Alicia Jody              Pearson                  Fizik                    79.2                     Geçti
+Ariella                  Hamilton                 Fizik                    74.5                     Geçti
+Rose Jasmine             Francis                  Matematik                82.2                     Geçti
+Lara                     Mccarthy                 Kimya Müh                79.0                     Geçti
+Blossom                  Cooper                   Bilgisayar Müh           78.6                     Geçti
+Stella                   Thompson                 Fizik                    89.5                     Geçti
+Ariella                  Davies                   Fizik Müh                71.0                     Geçti
+Lily Rose                Kelly                    Matematik                78.8                     Geçti
+Gabe                     Wells                    Bilgisayar Müh           73.8                     Geçti
+Jamie                    Henderson                Matematik                72.4                     Geçti
+               Geçti
+Jamie                    Henderson                Matematik                72.4                     Geçti
+         Fizik Müh                72.5                    Geçti
+Glen                     Francis                  Fizik                    80.4                    Geçti
+Lee                      Fletcher                 Bilgisayar Müh           73.1                    Geçti
+Jo                       Khan                     Matematik Müh            47.8                    Geçti
+Bev                      Cunningham               Kimya Müh                67.8                    Geçti
+Brook                    Duncan                   Bilgisayar Müh           88.7                    Geçti
+Phoenix                  Phillips                 Matematik                77.8                    Geçti
+Alicia Jody              Pearson                  Fizik                    79.2                    Geçti
+Amalia                   Atkinson                 Fizik Müh                70.8                    Geçti
+Marley Sienna            Robertson                Bilgisayar Müh           87.3                    Geçti
+Ariella                  Hamilton                 Fizik                    74.5                    Geçti
+Rose Jasmine             Francis                  Matematik                82.2                    Geçti
+Lara                     Mccarthy                 Kimya Müh                79.0                    Geçti
+Jemima                   Fox                      Matematik Müh            58.3                    Geçti
+Blossom                  Cooper                   Bilgisayar Müh           78.6                    Geçti
+Stella                   Thompson                 Fizik                    89.5                    Geçti
+Ariella                  Davies                   Fizik Müh                71.0                    Geçti
+Lily Rose                Kelly                    Matematik                78.8                    Geçti
+Gabe                     Wells                    Bilgisayar Müh           73.8                    Geçti
+Taylor                   Evans                    Kimya Müh                72.9                    Geçti
+Jamie                    Henderson                Matematik                72.4                    Geçti

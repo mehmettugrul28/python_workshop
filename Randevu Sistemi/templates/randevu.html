@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Randevu Programı</title>
+</head>
+<body>
+    <h1>Disa Erkek Kuaförüne Hoşgeldiniz</h1>
+    <h2>Ana Sayfa</h2>
+    <h3>Randevu Formu</h3>
+    <form action="/randevu" method="POST">
+        <label for="isim">İsim Soyisim:</label><br>
+        <input type="text" id="isim" name="isim" required><br><br>
+
+        <label for="saat">Randevu Saati (09:00 - 21:00):</label><br>
+        <input type="time" id="saat" name="saat" min="09:00" max="21:00" step="1800" required><br><br>
+
+        <input type="submit" value="Randevu Al">
+    </form>
+</body>
+</html>

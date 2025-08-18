@@ -1,0 +1,11 @@
+if ortalama >= 70 and final >= 70:
+                    gecenler.write(isim)
+                    gecenler.write(" " * (25 - len(isim)))
+                    gecenler.write(soyisim)
+                    gecenler.write(" " * (25 - len(soyisim)))
+                    gecenler.write(alan)
+                    gecenler.write(" " * (25 - len(alan)))
+                    gecenler.write(str(round(ortalama , 1)))
+                    gecenler.write(" " * 21)
+                    gecenler.write("Geçti")
+                    gecenler.write("\n")

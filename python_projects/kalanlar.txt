@@ -1,0 +1,21 @@
+Darcey                   Parker                   Fizik                    58.0                    Geçti
+Amara Allen              Eloise                   Kimya Müh                69.4                    Geçti
+Brynn                    Thomas                   Kimya Müh                75.2                    Geçti
+James                    Harper                   Bilgisayar Müh           75.8                    Geçti
+John                     Hunter                   Fizik                    61.2                    Geçti
+William                  Hussain                  Fizik Müh                69.0                    Geçti
+Richard                  Jeff                     Matematik                61.2                    Geçti
+Charles Booth            Hamish                   Bilgisayar Müh           62.4                    Geçti
+Daniel                   Porter                   Fizik Müh                68.0                    Geçti
+Martin                   Hank                     Bilgisayar Müh           79.3                    Geçti
+Kenneth                  Rogers                   Fizik                    59.7                    Geçti
+Tim                      Jack                     Matematik Müh            72.1                    Geçti
+Edward Frankie           Adams                    Fizik                    86.8                    Geçti
+Ronald                   Tate                     Bilgisayar Müh           68.8                    Geçti
+Anthony                  Casper                   Fizik Müh                64.8                    Geçti
+Jo                       Khan                     Matematik Müh            47.8                    Geçti
+Bev                      Cunningham               Kimya Müh                67.8                    Geçti
+Amalia                   Atkinson                 Fizik Müh                70.8                    Geçti
+Marley Sienna            Robertson                Bilgisayar Müh           87.3                    Geçti
+Jemima                   Fox                      Matematik Müh            58.3                    Geçti
+Taylor                   Evans                    Kimya Müh                72.9                    Geçti

@@ -1,4 +1,4 @@
-with open("mini_project.txt" , "r") as dosya:
+with open("mezunlar.txt" , "r") as dosya:
     with open("gecenler.txt" , "r+") as gecenler:
         with open("kalanlar.txt" , "r+") as kalanlar:
             icerik = dosya.readlines()

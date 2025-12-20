@@ -47,3 +47,4 @@ fonk2(2,3,4,5,6,7 , ad = "Ali" , soyad = "Çalışkan" , yas = 25)
 
 
 
+#! fonksiyonları yazarken * dan sonra ne geldiği önemli değildir isimler yazılımcı tarafından belirlerinir.

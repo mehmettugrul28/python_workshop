@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 def mesaj():
-    pyautogui.write("Bugun nasilsin?")
+    pyautogui.write("Hasen naber")
     pyautogui.press("enter")
 
 while True:

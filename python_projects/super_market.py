@@ -1,5 +1,3 @@
-import os
-
 class Urun:
     def __init__(self, isim, fiyat, stok, birim="adet"):
         self.isim = isim
